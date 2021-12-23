@@ -1,6 +1,6 @@
 # interviewbit--array--triplets-with-sum-in-given-range
 
--------> Question:
+**-------> Question:**
 
 Given an array of real numbers greater than zero in form of strings.
 
@@ -27,7 +27,7 @@ O(n) solution is expected.
 Note: You can assume the numbers in strings don’t overflow the primitive data type and there are no leading zeroes in numbers. Extra memory usage is allowed.
 
 
--------> perfect code in O(n):
+**-------> perfect code in O(n):**
 
 int Solution::solve(vector<string> &v) {
 
